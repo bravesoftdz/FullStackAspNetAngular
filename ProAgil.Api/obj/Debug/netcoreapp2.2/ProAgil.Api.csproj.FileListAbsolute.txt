@@ -1,0 +1,14 @@
+Y:\FullStackAspNetAngular\ProAgil.Api\bin\Debug\netcoreapp2.2\ProAgil.Api.deps.json
+Y:\FullStackAspNetAngular\ProAgil.Api\bin\Debug\netcoreapp2.2\ProAgil.Api.runtimeconfig.json
+Y:\FullStackAspNetAngular\ProAgil.Api\bin\Debug\netcoreapp2.2\ProAgil.Api.runtimeconfig.dev.json
+Y:\FullStackAspNetAngular\ProAgil.Api\bin\Debug\netcoreapp2.2\ProAgil.Api.dll
+Y:\FullStackAspNetAngular\ProAgil.Api\bin\Debug\netcoreapp2.2\ProAgil.Api.pdb
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.csprojAssemblyReference.cache
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.csproj.CoreCompileInputs.cache
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.RazorAssemblyInfo.cache
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.RazorAssemblyInfo.cs
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.AssemblyInfoInputs.cache
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.AssemblyInfo.cs
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.RazorTargetAssemblyInfo.cache
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.dll
+Y:\FullStackAspNetAngular\ProAgil.Api\obj\Debug\netcoreapp2.2\ProAgil.Api.pdb
