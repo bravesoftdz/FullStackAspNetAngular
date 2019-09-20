@@ -16,12 +16,12 @@
         </button>
       </th>
       <th>#</th>
-      <th>Tema</th>
-      <th>Local</th>
-      <th>Data</th>
-      <th>Quantiade de Pessoas</th>
-      <th>Lote</th>
-      <th>Opções</th>
+      <th>TEMA</th>
+      <th>LOCAL</th>
+      <th>DATA</th>
+      <th>QUANTIDADE DE PESSOAS</th>
+      <th>LOTE</th>
+      <th>OPÇÕES</th>
     </tr>
   </thead>
   <tbody *ngIf="eventos && eventos.length">
@@ -38,7 +38,7 @@
       <td>{{evento.local}}</td>
       <td>{{evento.dataEvento}}</td>
       <td>{{evento.qtdPessoas}}</td>
-      <td>{{evento.lote}}</td>
+      <td>{{evento.lote | uppercase}}</td>
       <td>
         <button class="btn btn-success"></button>
         <button class="btn btn-danger"></button>
